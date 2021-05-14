@@ -1,4 +1,5 @@
 {
+  "homepage": "htttp://Tsampaio.github.io/yo-mama",
   "name": "yo-mama",
   "version": "0.1.0",
   "private": true,
@@ -13,6 +14,8 @@
     "web-vitals": "^1.1.2"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -41,6 +44,7 @@
     "eslint-config-prettier": "^8.3.0",
     "eslint-plugin-prettier": "^3.4.0",
     "eslint-plugin-react": "^7.23.2",
+    "gh-pages": "^3.1.0",
     "prettier": "^2.3.0"
   }
 }
