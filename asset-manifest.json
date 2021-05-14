@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/yo-mama/static/css/main.01c2df3b.chunk.css",
+    "main.js": "/yo-mama/static/js/main.8addb1d2.chunk.js",
+    "main.js.map": "/yo-mama/static/js/main.8addb1d2.chunk.js.map",
+    "runtime-main.js": "/yo-mama/static/js/runtime-main.84f07d88.js",
+    "runtime-main.js.map": "/yo-mama/static/js/runtime-main.84f07d88.js.map",
+    "static/js/2.9695626d.chunk.js": "/yo-mama/static/js/2.9695626d.chunk.js",
+    "static/js/2.9695626d.chunk.js.map": "/yo-mama/static/js/2.9695626d.chunk.js.map",
+    "index.html": "/yo-mama/index.html",
+    "static/css/main.01c2df3b.chunk.css.map": "/yo-mama/static/css/main.01c2df3b.chunk.css.map",
+    "static/js/2.9695626d.chunk.js.LICENSE.txt": "/yo-mama/static/js/2.9695626d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.84f07d88.js",
+    "static/js/2.9695626d.chunk.js",
+    "static/css/main.01c2df3b.chunk.css",
+    "static/js/main.8addb1d2.chunk.js"
+  ]
+}
