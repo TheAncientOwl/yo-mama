@@ -1,4 +1,5 @@
 import React from 'react';
+import randomJoke from './jokes/randomJoke';
 
 export default function App() {
   return (
@@ -11,7 +12,7 @@ export default function App() {
         color: 'red',
         fontWeight: 'bold',
       }}>
-      "Yo mama so fat (...)"
+      {randomJoke()}
     </div>
   );
 }
